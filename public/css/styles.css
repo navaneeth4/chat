@@ -1,4 +1,4 @@
-/* General Styles */
+
 
 * {
     margin: 0;
@@ -133,8 +133,6 @@ button:disabled {
     color: #0070CC;
 }
 
-/* Message Composition Styles */
-
 .compose {
     display: flex;
     flex-shrink: 0;
@@ -160,7 +158,6 @@ button:disabled {
     font-size: 14px;
 }
 
-/* Chat Sidebar Styles */
 
 .room-title {
     font-weight: 400;
